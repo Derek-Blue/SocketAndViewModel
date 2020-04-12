@@ -1,0 +1,2 @@
+rootProject.name='SocketAndViewModel'
+include ':app'
